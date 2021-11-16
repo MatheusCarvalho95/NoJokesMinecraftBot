@@ -11,4 +11,4 @@ RUN pnpm install
 
 COPY . .
 
-CMD pmpm start
+CMD pnpm start
